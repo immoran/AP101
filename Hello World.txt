@@ -1,3 +1,8 @@
 Hello World！！Again
 
 This original file OK?
+and
+conflict,conflict,conflict
+many many conflict
+OMG~~~
+
